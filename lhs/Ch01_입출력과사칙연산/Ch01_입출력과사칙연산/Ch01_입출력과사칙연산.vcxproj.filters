@@ -18,5 +18,8 @@
     <ClCompile Include="2557_HelloWorld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10718_Welovekriii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
